@@ -1,6 +1,4 @@
-Name : Natthapat
-Lastname : Yang
-
-Hellospec
-
-hi my name is jai
+Name: Jai
+Age: 23
+Job: Student
+Language: Thai

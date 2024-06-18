@@ -1,3 +1,4 @@
 Name: Toy
-Age: 10
-Job: Student
+Age: 25
+Job: Software Engineer
+Language: Thai
